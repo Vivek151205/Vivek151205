@@ -22,13 +22,22 @@
 ### 🚀 **My Tech Stack**
 
 - **Languages**:  
-  ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
+  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 - **Frameworks & Libraries**:  
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
+  ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) 
+  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 - **Tools**:  
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
+  ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white) 
+  ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -41,19 +50,25 @@
 
 ---
 
-### 🌱 **Current Projects**
+### 🌟 **Featured Projects**
 
 - 🔍 **Women Safety Analytics**: Real-time threat detection software to enhance safety.
 - 📊 **Smart India Hackathon 2024**: Innovative solutions for national challenges.
-- 🤖 **AI Animation Maker**: Bringing AI concepts to life with creative animations.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400"/>
+</p>
 
 ---
 
 ### 🌐 **Find Me Around the Web**
 
-- 💬 **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- 📷 **Instagram**: [Your Instagram](https://www.instagram.com/yourprofile)  
-- 📝 **Medium**: [Your Blog](https://yourblog.medium.com)  
+- 💬 **LinkedIn**: ([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/vivek-tripathi-319677249/))    
+- 📝 **Twitter**:(https://yourblog.medium.com)  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3ohc0WMoWZM4Ve4bi0/giphy.gif" width="400"/>
+</p>
 
 ---
 
@@ -66,4 +81,4 @@
 </p>
 
 ---
-⭐️ From [Your Name](https://github.com/yourusername)
+⭐️ From [VIVEK TRIPATHI](https://github.com/Vivek151205)
