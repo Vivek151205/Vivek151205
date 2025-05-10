@@ -73,10 +73,6 @@
 - 🌍 I’m on a mission to visit all seven continents.
 - 🤖 Building an AI that can recognize sarcasm... because why not? 😜
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l1J9u3TZfpmeDLkD6/giphy.gif" width="200"/>
-</p>
-
 ---
 
 ### 💌 **Let’s Connect!**
